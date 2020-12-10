@@ -22,10 +22,12 @@ I am currently a computer engineering student at the University of California - 
 I have done some projects and I'm currently looking to add more to refine my knowledge on all things. Some of my projects you can find in my repositories.I'm always open to learn new things and to do something that may be out of my comfort zone! I'm comfortable with 
 * C++
 * C
-* Linux
-* Git
+* HTML
+* CSS
 * Some Pyhton
 * Some Verilog
+* Linux
+* Git
 * Breadboarding 
 * Circuit Analysis
 * Etc. 
