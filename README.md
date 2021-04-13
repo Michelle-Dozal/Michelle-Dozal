@@ -24,7 +24,7 @@ I have done some projects and I'm currently looking to add more to refine my kno
 * C
 * HTML
 * CSS
-* Some Pyhton
+* Some Python
 * Some Verilog
 * Linux
 * Git
