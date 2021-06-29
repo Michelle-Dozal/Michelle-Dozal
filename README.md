@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋 I'm Michelle
-I am currently a computer engineering student at the University of California - Riverside. I am planning to graduate in 2021 and will be looking for internships/full-time positions starting then. I don't have specific types of projects I prefer over others. However, I am passionate about creating software to help people or just something really cool. 
+I am a recent computer engineering grad from the University of California - Riverside. I graduated in Spring 2021 and am looking for internships/full-time positions. I don't have specific types of projects I prefer over others. However, I am passionate about creating software to help people or just something really cool. 
 
 ## :computer::electric_plug:
 I have done some projects and I'm currently looking to add more to refine my knowledge on all things. Some of my projects you can find in my repositories.I'm always open to learn new things and to do something that may be out of my comfort zone! I'm comfortable with 
